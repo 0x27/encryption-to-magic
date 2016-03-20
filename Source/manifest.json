@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "Cyber To Penile",
+	"name": "Encryption To Magic",
 	"version": "1.0",
-	"description": "Replaces the text 'cyber' with 'penile'.",
+	"description": "Replaces the text 'Encryption' with 'Magic'.",
 	"content_scripts": 
 	[
 		{

@@ -31,9 +31,9 @@ function handleText(textNode)
 {
 	var v = textNode.nodeValue;
 
-	v = v.replace(/\bCyber\b/g, "Penile");
-	v = v.replace(/\bcyber\b/g, "penile");
-	v = v.replace(/\bCYBER\b/g, "PENILE");
+	v = v.replace(/\bEncryption\b/g, "Magic");
+	v = v.replace(/\bencryption\b/g, "magic");
+	v = v.replace(/\bENCRYPTION\b/g, "MAGIC");
 	
 	textNode.nodeValue = v;
 }
